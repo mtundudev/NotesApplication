@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+pwdlib[argon2]
+pyjwt
+python-multipart
+psycopg2-binary
+alembic
+pydantic[email]
+pydantic_settings
+python-jose
